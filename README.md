@@ -1,6 +1,6 @@
-mobilerider-python-sdk
+mobilerider-client-python
 ======================
 
-Mobilerider Python SDK
+Mobilerider Python Client
 
-[![Build Status](https://travis-ci.org/mobilerider/mobilerider-python-sdk.png?branch=master,develop)](https://travis-ci.org/mobilerider/mobilerider-python-sdk)
+[![Build Status](https://travis-ci.org/mobilerider/mobilerider-client-python.png?branch=master,develop)](https://travis-ci.org/mobilerider/mobilerider-client-python)
